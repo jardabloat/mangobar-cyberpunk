@@ -1,8 +1,8 @@
 # Maintainer: DreamMaoMao <maoopzopaasnmakslpo@gmail.com>
 
 pkgname=mangobar-git
-pkgver=r2.667745d
-pkgrel=1.3
+pkgver=r78.443562e
+pkgrel=1
 pkgdesc="A simple bar for mango wayland compositor"
 url="https://github.com/mangowm/mangobar"
 arch=("x86_64")
